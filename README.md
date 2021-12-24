@@ -16,4 +16,6 @@ $ cd JuegoSpaceX <br>
 $ java Principal
 
 <br>
-EN caso de que java esté en otra versión se tendrá que compilar de nuevo los archivos .java
+En caso de que java esté en otra versión se tendrá que compilar de nuevo los archivos .java
+
+En la foto spaceX1.png se puede ver el juego 
